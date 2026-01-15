@@ -1,14 +1,14 @@
 {
-    "name": "Faheem | Islamabad, Pakistan",
-    "short_name": "jolienhoop.com",
+    "name": "Faheem Khan | Islamabad, Pakistan",
+    "short_name": "Faheem Khan",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "/faheem-khan.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png",
+            "src": "/faheem-khan.png",
             "sizes": "512x512",
             "type": "image/png"
         }
